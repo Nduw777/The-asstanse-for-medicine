@@ -2,3 +2,7 @@ streamlit==1.35.0        # web app framework
 google-generativeai>=0.3 # Gemini SDK
 tenacity>=8.2            # smart retry / back‑off
 python-dotenv>=1.0       # loads .env secrets
+streamlit==1.35.0
+google-generativeai>=0.3
+tenacity>=8.2
+python-dotenv>=1.0
